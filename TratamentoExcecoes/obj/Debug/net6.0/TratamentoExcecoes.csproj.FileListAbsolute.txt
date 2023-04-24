@@ -1,0 +1,15 @@
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\TratamentoExcecoes\TratamentoExcecoes\bin\Debug\net6.0\TratamentoExcecoes.exe
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\TratamentoExcecoes\TratamentoExcecoes\bin\Debug\net6.0\TratamentoExcecoes.deps.json
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\TratamentoExcecoes\TratamentoExcecoes\bin\Debug\net6.0\TratamentoExcecoes.runtimeconfig.json
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\TratamentoExcecoes\TratamentoExcecoes\bin\Debug\net6.0\TratamentoExcecoes.dll
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\TratamentoExcecoes\TratamentoExcecoes\bin\Debug\net6.0\TratamentoExcecoes.pdb
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net6.0\TratamentoExcecoes.csproj.AssemblyReference.cache
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net6.0\TratamentoExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net6.0\TratamentoExcecoes.AssemblyInfoInputs.cache
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net6.0\TratamentoExcecoes.AssemblyInfo.cs
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net6.0\TratamentoExcecoes.csproj.CoreCompileInputs.cache
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net6.0\TratamentoExcecoes.dll
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net6.0\refint\TratamentoExcecoes.dll
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net6.0\TratamentoExcecoes.pdb
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net6.0\TratamentoExcecoes.genruntimeconfig.cache
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net6.0\ref\TratamentoExcecoes.dll
